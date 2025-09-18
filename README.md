@@ -26,9 +26,13 @@ Live link - https://educase-assignment-by-ankit-matth.vercel.app/
 
 ## Screenshots on Mobile
 
-| Mobile View 1 | Mobile View 2 |
-|---------------|---------------|
-| <img width="300" alt="Mobile Screenshot 1" src="https://github.com/user-attachments/assets/2a72af79-f084-4259-87ba-257deb0c9d9b" /> | <img width="300" alt="Mobile Screenshot 2" src="https://github.com/user-attachments/assets/41d556ac-3055-459d-bb88-a34c5acd4d59" /> |
+| Landing Page | Signup Page |
+|--------------|-------------|
+| <img width="1365" height="767" alt="Screenshot 2025-09-18 093328" src="https://github.com/user-attachments/assets/7c8a4ef5-bf41-461d-a6ab-83574d05b177" /> | <img width="1365" height="767" alt="Screenshot 2025-09-18 093338" src="https://github.com/user-attachments/assets/e44d3d59-b8cb-4738-a736-369020763480" />|
+
+| Login Page | Profile Page |
+|------------|--------------|
+| <img width="1365" height="767" alt="Screenshot 2025-09-18 093349" src="https://github.com/user-attachments/assets/c4e6dda5-e591-4e99-93cd-1c2857476321" /> | <img width="1365" height="767" alt="Screenshot 2025-09-18 093404" src="https://github.com/user-attachments/assets/82273d48-8957-416e-8325-0a9cbd870f0f" />|
 
 
 ## Installation

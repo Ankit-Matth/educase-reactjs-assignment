@@ -4,7 +4,7 @@ import { Link } from "react-router-dom";
 export default function Landing() {
   return (
     <div className="flex items-center justify-center min-h-screen bg-white">
-      <div className="w-[246px] h-[533px] border border-gray-400 p-5 bg-white relative">
+      <div className="w-full h-screen md:w-[246px] md:h-[533px] border border-gray-400 p-5 bg-white relative">
         
         <div className="absolute bottom-6 left-0 w-full px-4">
           

@@ -17,7 +17,7 @@ const Login = () => {
 
   return (
     <div className="flex items-center justify-center min-h-screen bg-white">
-      <div className="w-[246.44px] h-[533.2px] border border-gray-400 p-5 relative bg-white">
+      <div className="w-full h-screen md:w-[246.44px] md:h-[533.2px] border border-gray-400 p-5 relative bg-white">
         <div className="text-start">
           <h1 className="text-xl font-bold text-gray-900">
             Sign in to your <br /> PopX account

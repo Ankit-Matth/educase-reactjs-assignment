@@ -26,7 +26,7 @@ const Signup = ({ setUserData }) => {
 
   return (
     <div className="flex items-center justify-center min-h-screen bg-white">
-      <div className="w-[250px] h-[533px] border border-gray-400 p-4 bg-white flex flex-col">
+      <div className="w-full h-screen md:w-[250px] md:h-[533px] border border-gray-400 p-4 bg-white flex flex-col">
         <div className="flex-1 overflow-y-auto pr-1">
           <div className="text-start">
             <h1 className="text-xl font-bold text-gray-900">

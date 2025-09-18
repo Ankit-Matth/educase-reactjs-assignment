@@ -15,7 +15,7 @@ const Profile = ({ userData }) => {
 
   return (
     <div className="flex items-center justify-center min-h-screen bg-white">
-      <div className="w-[250px] h-[533px] border border-gray-400 bg-[#F7F8F9] flex flex-col overflow-y-auto">
+      <div className="w-full h-screen md:w-[250px] md:h-[533px] border border-gray-400 bg-[#F7F8F9] flex flex-col overflow-y-auto">
         
         <header className="w-full shadow-sm px-4 pt-4 pb-3 bg-white">
           <h1 className="text-sm font-semibold text-gray-800">Account Settings</h1>
@@ -61,13 +61,13 @@ const Profile = ({ userData }) => {
             </p>
           </div>
 
-           <div className="mt-4 w-full border-t border-dashed border-gray-400"></div>
+           <div className="mt-4 w-full h-1 border-t border-dashed border-gray-500"></div>
         </main>
 
        
 
 
-        <footer className="w-full border-t border-dashed border-gray-400 text-center py-3 text-xs text-gray-500" />
+        <footer className="w-full border-t border-dashed border-gray-500 text-center py-3 text-xs text-gray-500" />
       </div>
     </div>
   );
